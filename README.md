@@ -1,9 +1,8 @@
 # GTPS-Launcher-IP
 This app allow you for Go To Growtopia Private Server with custom ip (Coded in Python 3.x)
 
-# Download EXE
-Download the exe if you lazy
-download : https://github.com/NumeXx/GTPS-Launcher-IP/blob/main/GTPS-Launcher-IP.exe
+## Information
+- Just select what kind tools what u wanna use
 
 # DONATION
 <pre>
